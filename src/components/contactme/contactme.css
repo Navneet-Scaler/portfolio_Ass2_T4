@@ -1,14 +1,13 @@
-.a{
+.c{
     height: 100vh;
     display: flex;
     align-items: center;
 }
 
-.a-left{
+.c-left{
     flex:1
 }
 
-.a-right{
+.c-right{
     flex:1
 }
-
